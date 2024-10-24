@@ -74,9 +74,10 @@ The schema includes several tables, each representing a different entity in cust
 
 - `Customers`
 - `Orders`
-- `Products`
 - `Sales`
 - `Locations`
+- `Interactions`
+- `Payments`
 
 ## Database Schema
 
