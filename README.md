@@ -1,4 +1,4 @@
-# Cuatomer Data Management DEPI
+# Customer Data Management DEPI
 
 
 ## Project Overview
